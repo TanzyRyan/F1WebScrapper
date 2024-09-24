@@ -1,4 +1,4 @@
-# F1WebScrapper
+# F1 Web Scrapper
 
 ## 1/6/2024
 Created an interface to look up F1 results, drivers' and constructors' championship based on the given year. It uses web scraping to collect the most up to date information from the web before displaying it on a GUI interface.
