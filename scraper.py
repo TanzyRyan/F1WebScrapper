@@ -51,7 +51,7 @@ def driver_scrap(result_table):
     extract driver's information (driver name, team name and total points) from the result table
 
     input:
-        - result_table
+        - result_table: beautifulSoup tag object containing the driver's results
     output:
         a dictionary where each key represents a leaderboard position and their value containing a list with the driver's 
         name, team name and total points scored
@@ -89,7 +89,7 @@ def team_scrap(result_table):
     extract team's information (team name and total points) from the result table
 
     input:
-        - result_table
+        - result_table: beautifulSoup tag object containing the team's results
     output:
         a dictionary where each key represents a leaderboard position and their value containing a list with the team's 
         name and total points scored
