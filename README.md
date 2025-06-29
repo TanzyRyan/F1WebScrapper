@@ -1,7 +1,14 @@
 # F1 Web Scrapper
+Displays the current standing and previous driver's and constructor's championships based on the most up to date F1 results
 
-## 1/6/2024
-Created an interface to look up F1 results, drivers' and constructors' championship based on the given year. It uses web scraping to collect the most up to date information from the web before displaying it on a GUI interface.
+## Description
+Users interact with the GUI by inputting a given year and from a dropdown menu, select whether they want the results of the driver's or team's standing. A table is constructed displaying (in descending order of points) either the driver's name, their team and their total points scored, or the team's name and their total points scored. 
 
-## 20/9/2024
-Sadly, the F1 website has changed and this webscrapper is no longer working :(
+This project uses BeautifulSoup to scrap the web for he must up to date F1 results and displays it onto a GUI interface created using Tkinter. Appropriate error handling is enforced when invalid or missing year is inputted.  
+
+## Usage 
+
+
+## Current state
+Sadly, as of 20/9/2024, due to changes in the formatting of the F1 webpage,this web scrapper is no longer working :(
+
