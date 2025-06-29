@@ -12,5 +12,5 @@ https://github.com/user-attachments/assets/fe0b85fa-5d01-4a00-9fc1-cbe6db5475dc
 
 
 ## Current state
-Sadly, as of 20/9/2024, due to changes in the formatting of the F1 webpage,this web scrapper is no longer working :(
+Sadly, as of 20/9/2024, due to changes in the formatting of the F1 webpage, this web scrapper is no longer working :(
 
